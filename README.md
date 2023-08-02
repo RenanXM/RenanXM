@@ -8,6 +8,8 @@ Stats and most used languages
   <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=RenanXM&hide=Jupyter%20Notebook,html&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+  
 <!---
 Icons
 -->
