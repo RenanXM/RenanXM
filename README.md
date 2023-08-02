@@ -4,8 +4,8 @@
 Stats and most used languages
 -->
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RenanXM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RenanXM&hide=Jupyter%20Notebook,html&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=RenanXM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=RenanXM&hide=Jupyter%20Notebook,html&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!---
