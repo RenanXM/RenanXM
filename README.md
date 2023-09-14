@@ -57,7 +57,7 @@ Myself
 ## About me
 I'm a Computer Science student at [Federal University of Ceará](https://www.ufc.br/).
 
-Interest in Web Development and Data Science  
+Interest in Data Science and Development
 
 <!---
 Social media
