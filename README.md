@@ -1,5 +1,4 @@
 ## Hey! I'm Renan Xerez 👋
-
 <!---
 Stats and most used languages
 -->
